@@ -1,0 +1,29 @@
+{
+    "jobs": [
+        {
+            "company": "Cybercom Poland Sp z o.o.",
+            "title": "Software Engineer",
+            "startAt": "1/03/2013",
+            "endAt": "actual",
+            "description": "Lorem ipsum dolor sit amet, ea vel prima adhuc, scripta liberavisse ea quo, te vel vidit mollis complectitur. Quis verear mel ne. Munere vituperata vis cu, te pri duis timeam scaevola, nam postea diceret ne. Cum ex quod aliquip mediocritatem, mei habemus persecuti mediocritatem ei.",
+            "responsibilities": [
+                "software development and architecture",
+                "testing delivered software",
+                "configuration, maintenance and support",
+                "recruting",
+                "teaching juniors enterprise programming"
+            ]
+        }, {
+            "company": "Cybercom Poland Sp z o.o.",
+            "title": "Junior Software Engineer",
+            "startAt": "28/07/2011",
+            "endAt": "28/02/2013",
+            "description": "Lorem ipsum dolor sit amet, ea vel prima adhuc, scripta liberavisse ea quo, te vel vidit mollis complectitur. Quis verear mel ne. Munere vituperata vis cu, te pri duis timeam scaevola, nam postea diceret ne. Cum ex quod aliquip mediocritatem, mei habemus persecuti mediocritatem ei.",
+            "responsibilities": [
+                "software development and architecture",
+                "testing delivered software",
+                "configuration, maintenance and support"
+            ]
+        }
+    ]
+}

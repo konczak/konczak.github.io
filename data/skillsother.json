@@ -1,0 +1,185 @@
+{
+    "categories": [
+        {
+            "title": "Java",
+            "skills": [
+                {
+                    "name": "Java 6",
+                    "percent": 85
+                }, {
+                    "name": "Java 8",
+                    "percent": 75
+                }, {
+                    "name": "Spring boot",
+                    "percent": 65
+                }, {
+                    "name": "Spring MVC",
+                    "percent": 80
+                }, {
+                    "name": "Spring Security",
+                    "percent": 80
+                }, {
+                    "name": "Spring JPA data",
+                    "percent": 80
+                }, {
+                    "name": "Hibernate",
+                    "percent": 75
+                }, {
+                    "name": "Thymeleaf",
+                    "percent": 55
+                }, {
+                    "name": "Swagger",
+                    "percent": 45
+                }, {
+                    "name": "Flyway",
+                    "percent": 45
+                }, {
+                    "name": "Maven",
+                    "percent": 80
+                }
+            ]
+        }, {
+            "title": "SQL",
+            "skills": [
+                {
+                    "name": "MSSQL 2008",
+                    "percent": 85
+                }, {
+                    "name": "MySQL",
+                    "percent": 60
+                }, {
+                    "name": "PostgreSQL",
+                    "percent": 40
+                }, {
+                    "name": "Microsoft SQL Server Management Studio",
+                    "percent": 85
+                }
+            ]
+        }, {
+            "title": "Web",
+            "skills": [
+                {
+                    "name": "HTML/HTML5",
+                    "percent": 90
+                }, {
+                    "name": "JavaScript",
+                    "percent": 85
+                }, {
+                    "name": "jQuery",
+                    "percent": 60
+                }, {
+                    "name": "AngularJS",
+                    "percent": 70
+                }, {
+                    "name": "CSS/CSS3",
+                    "percent": 60
+                }, {
+                    "name": "Bootstrap 3",
+                    "percent": 70
+                }, {
+                    "name": "Apache Web server",
+                    "percent": 85
+                }
+            ]
+        }, {
+            "title": "Other tools",
+            "skills": [
+                {
+                    "name": "Apache Tomcat 6/8",
+                    "percent": 80
+                }, {
+                    "name": "Confluence Wiki",
+                    "percent": 50
+                }, {
+                    "name": "JIRA",
+                    "percent": 80
+                }, {
+                    "name": "Git",
+                    "percent": 60
+                }, {
+                    "name": "Grunt",
+                    "percent": 35
+                }, {
+                    "name": "GIMP",
+                    "percent": 70
+                }, {
+                    "name": "Jenkins",
+                    "percent": 60
+                }, {
+                    "name": "Yeoman",
+                    "percent": 45
+                }, {
+                    "name": "yo",
+                    "percent": 45
+                }, {
+                    "name": "Bower",
+                    "percent": 45
+                }
+            ]
+        }, {
+            "title": "Platforms",
+            "skills": [
+                {
+                    "name": "Windows XP",
+                    "percent": 95
+                }, {
+                    "name": "Windows 7",
+                    "percent": 85
+                }, {
+                    "name": "Linux",
+                    "percent": 55
+                }
+            ]
+        }, {
+            "title": "Tests",
+            "skills": [
+                {
+                    "name": "JUnit",
+                    "percent": 90
+                }, {
+                    "name": "Mockito",
+                    "percent": 40
+                }, {
+                    "name": "EasyMock",
+                    "percent": 70
+                }
+            ]
+        }, {
+            "title": "Development methods and technics",
+            "skills": [
+                {
+                    "name": "Agile",
+                    "percent": 75
+                }, {
+                    "name": "Scrum",
+                    "percent": 75
+                }, {
+                    "name": "Design patterns",
+                    "percent": 80
+                }, {
+                    "name": "Enterprise architecture",
+                    "percent": 40
+                }, {
+                    "name": "Microservices",
+                    "percent": 50
+                }, {
+                    "name": "Domain driven design",
+                    "percent": 70
+                }, {
+                    "name": "REST",
+                    "percent": 95
+                }, {
+                    "name": "Behavior-driven development",
+                    "percent": 80
+                }, {
+                    "name": "Continuous integration",
+                    "percent": 50
+                }, {
+                    "name": "Planning poker",
+                    "percent": 75
+                }
+
+            ]
+        }
+    ]
+}

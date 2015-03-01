@@ -1,0 +1,100 @@
+{
+    "projects": [
+        {
+            "name": "Compliance Portal",
+            "startAt": "01/01/2015",
+            "endAt": "23/02/2015",
+            "description": "Web app for fill dynamic surveys",
+            "roles": [
+                "Technical Support Engineer"
+            ],
+            "technologies": [
+                "HTML5",
+                "Bootstrap 2",
+                "AngularJS"
+            ]
+        }, {
+            "name": "Training planning",
+            "startAt": "01/07/2014",
+            "endAt": "actual",
+            "description": "Web app for HR to manage trainings and courses",
+            "roles": [
+                "Team Leader",
+                "Scrum Master",
+                "Software Architect"
+            ],
+            "technologies": [
+                "Spring boot",
+                "AngularJS"
+            ]
+        }, {
+            "name": "Dalia",
+            "startAt": "01/01/2014",
+            "endAt": "30/01/2014",
+            "description": "Single page Web application presenting Dalia company and its offer",
+            "roles": [
+                "SW Designer & Developer"
+            ],
+            "technologies": [
+                "Bootstrap 3",
+                "KnockoutJS"
+            ]
+        }, {
+            "name": "e-exam",
+            "startAt": "01/10/2013",
+            "endAt": "actual",
+            "description": "System handling organisation of online exams",
+            "roles": [
+                "Software Engineer",
+                "Software Architect",
+                "SW Designer & Developer"
+            ],
+            "technologies": [
+                "Spring boot",
+                "AngularJS",
+                "JPA & Hibernate"
+            ]
+        }, {
+            "name": "TeleP Parkering",
+            "startAt": "28/07/2011",
+            "endAt": "actual",
+            "description": "Complex system of car parks allowing start, stop, buy and administrate car parks via different entry points (Web/mobile/IVR/SMS)",
+            "roles": [
+                "Software Engineer",
+                "Software Architect",
+                "SW Designer & Developer"
+            ],
+            "technologies": [
+                "MSSQL 2008",
+                "Spring 3"
+            ]
+        }, {
+            "name": "The Game Based on Distributed Web Technologies as an Example of use Specialized Application Frameworks",
+            "startAt": "28/02/2011",
+            "endAt": "30/06/2011",
+            "description": "Real time strategy game",
+            "roles": [
+                "Software Engineer",
+                "Software Architect",
+                "SW Designer & Developer"
+            ],
+            "technologies": [
+                "PHP",
+                "Symfony",
+                "JavaScript"
+            ]
+        }, {
+            "name": "NZOZ system",
+            "startAt": "02/08/2005",
+            "endAt": "30/06/2011",
+            "description": "System supporting work of health center, based on business roles UIs",
+            "roles": [
+                "Software Engineer"
+            ],
+            "technologies": [
+                "C++",
+                "Borland Builder"
+            ]
+        }
+    ]
+}
