@@ -1,0 +1,75 @@
+{
+    
+    "todos": [
+        {
+            "title": "Start CV project",
+            "completed": true,
+            "completedAt": "04/02/2015"
+        },
+        {
+            "title": "Learn GitHub pages",
+            "completed": true,
+            "completedAt": "21/02/2015"
+        },
+        {
+            "title": "Publish CV project",
+            "completed": true,
+            "completedAt": "01/03/2015"
+        },
+        {
+            "title": "Store CV data in LocalStorage to increase loading speed",
+            "completed": false,
+            "completedAt": null
+        },
+        {
+            "title": "Version application to simplify maintenance",
+            "completed": false,
+            "completedAt": null
+        },
+        {
+            "title": "Improve UI design to increase UX",
+            "completed": false,
+            "completedAt": null
+        },
+        {
+            "title": "Add Google analytics metrics to learn how to do this and watch Web page usage",
+            "completed": false,
+            "completedAt": null
+        },
+        {
+            "title": "Replace Yeoman favicon to make page more unique",
+            "completed": false,
+            "completedAt": null
+        },
+        {
+            "title": "Split main and other skills to other pages to simplify Web page usage and make CV more organised",
+            "completed": false,
+            "completedAt": null
+        },
+        {
+            "title": "Add printable version of CV to meet standards",
+            "completed": false,
+            "completedAt": null
+        },
+        {
+            "title": "Add social media like Facebook or Twitter integration to increase Web page visibility",
+            "completed": false,
+            "completedAt": null
+        },
+        {
+            "title": "Add social media like Facebook or Twitter integration to increase Web page visibility",
+            "completed": false,
+            "completedAt": null
+        },
+        {
+            "title": "Add English-Polish language support to improve personal skills and UX",
+            "completed": false,
+            "completedAt": null
+        },
+        {
+            "title": "Handle date formating for different regions to improve UX",
+            "completed": false,
+            "completedAt": null
+        }
+    ]
+}
