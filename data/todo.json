@@ -23,8 +23,8 @@
         },
         {
             "title": "Version application to simplify maintenance",
-            "completed": false,
-            "completedAt": null
+            "completed": true,
+            "completedAt": "16/03/2015"
         },
         {
             "title": "Improve UI design to increase UX",
